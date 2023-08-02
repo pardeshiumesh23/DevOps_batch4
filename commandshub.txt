@@ -2,3 +2,8 @@ git init
 git status
 git clone
 git remote -v
+git push
+git pull
+git fetch
+git commit -m 
+
