@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Feature 1 : This is first feature of our application.
 
 Feature 2 : This is the bug fix in development branch.
@@ -8,3 +9,6 @@ Feature 4: This feature will gadbad everything from now.
 
 
 
+=======
+This is first feature of our application.
+>>>>>>> parent of d151656 (Added feature2 in development branch)
