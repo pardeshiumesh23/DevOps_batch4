@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+Feature 1 : This is first feature of our application.
 
 Feature 2 : This is the bug fix in development branch.
 
- After bug fixing, this is the new feature with minor alteration
+Feature 3: This is gadbad code.
+
+Feature 4: This feature will gadbad everything from now.
 
 
 
